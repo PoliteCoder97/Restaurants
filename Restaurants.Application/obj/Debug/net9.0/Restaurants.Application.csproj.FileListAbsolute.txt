@@ -1,0 +1,16 @@
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/bin/Debug/net9.0/Restaurants.Application.deps.json
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/bin/Debug/net9.0/Restaurants.Application.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/bin/Debug/net9.0/Restaurants.Application.pdb
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/bin/Debug/net9.0/Restaurants.Domain.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/bin/Debug/net9.0/Restaurants.Domain.pdb
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/Restaurants.Application.csproj.AssemblyReference.cache
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/Restaurants.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/Restaurants.Application.AssemblyInfoInputs.cache
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/Restaurants.Application.AssemblyInfo.cs
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/Restaurants.Application.csproj.CoreCompileInputs.cache
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/Restaurants.Application.sourcelink.json
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/Restaura.6AB96A7C.Up2Date
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/Restaurants.Application.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/refint/Restaurants.Application.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/Restaurants.Application.pdb
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Application/obj/Debug/net9.0/ref/Restaurants.Application.dll

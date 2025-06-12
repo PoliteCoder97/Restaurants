@@ -147,3 +147,4 @@
 /Users/macbook/development/projects/dotnet/Restaurants/obj/Debug/net9.0/Restaurants.pdb
 /Users/macbook/development/projects/dotnet/Restaurants/obj/Debug/net9.0/Restaurants.genruntimeconfig.cache
 /Users/macbook/development/projects/dotnet/Restaurants/obj/Debug/net9.0/ref/Restaurants.dll
+/Users/macbook/development/projects/dotnet/Restaurants/obj/Debug/net9.0/Restaurants.sourcelink.json

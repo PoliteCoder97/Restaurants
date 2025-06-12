@@ -1,0 +1,12 @@
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/bin/Debug/net9.0/Restaurants.Domain.deps.json
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/bin/Debug/net9.0/Restaurants.Domain.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/bin/Debug/net9.0/Restaurants.Domain.pdb
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/obj/Debug/net9.0/Restaurants.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/obj/Debug/net9.0/Restaurants.Domain.AssemblyInfoInputs.cache
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/obj/Debug/net9.0/Restaurants.Domain.AssemblyInfo.cs
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/obj/Debug/net9.0/Restaurants.Domain.csproj.CoreCompileInputs.cache
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/obj/Debug/net9.0/Restaurants.Domain.sourcelink.json
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/obj/Debug/net9.0/Restaurants.Domain.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/obj/Debug/net9.0/refint/Restaurants.Domain.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/obj/Debug/net9.0/Restaurants.Domain.pdb
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.Domain/obj/Debug/net9.0/ref/Restaurants.Domain.dll

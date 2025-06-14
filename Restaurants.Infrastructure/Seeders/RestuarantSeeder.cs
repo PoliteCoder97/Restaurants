@@ -50,6 +50,21 @@ internal class RestuarantSeeder(RestaurantsDbContext dbContext, ILogger<Restuara
                     Street = "123 Pizza St",
                     City = "Pizzaville",
                     PostalCode = "12345"
+                },
+                Dishes = new List<Dish>
+                {
+                    new Dish
+                    {
+                        Name = "Margherita Pizza",
+                        Description = "Classic pizza with fresh tomatoes and basil",
+                        Price = 9.99m
+                    },
+                    new Dish
+                    {
+                        Name = "Pepperoni Pizza",
+                        Description = "Spicy pepperoni with mozzarella cheese",
+                        Price = 11.99m
+                    }
                 }
             },
             new Restaurant
@@ -64,6 +79,22 @@ internal class RestuarantSeeder(RestaurantsDbContext dbContext, ILogger<Restuara
                     Street = "456 Burger Blvd",
                     City = "Burger City",
                     PostalCode = "67890"
+                },
+                ContactNumber = "123-456-7890",
+                Dishes = new List<Dish>
+                {
+                    new Dish
+                    {
+                        Name = "Cheeseburger",
+                        Description = "Juicy beef patty with cheese, lettuce, and tomato",
+                        Price = 8.99m
+                    },
+                    new Dish
+                    {
+                        Name = "Fries",
+                        Description = "Crispy golden fries",
+                        Price = 3.99m
+                    }
                 }
             }
         };

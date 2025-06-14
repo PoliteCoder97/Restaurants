@@ -1,1 +1,24 @@
-@Restaurants.API_HostAddress = http://localhost:5149
+#@Restaurants.API_HostAddress = http://localhost:5149
+
+GET {{Restaurants_API_HostAddress}}/api/restaurants
+
+###
+
+GET {{Restaurants_API_HostAddress}}/api/restaurants/1
+
+###
+
+POST {{Restaurants_API_HostAddress}}/api/restaurants
+Content-Type: application/json
+
+{
+  "name": "New Restaurant",
+  "category": "Italian",
+  "description": "A new restaurant description",
+  "hasDelivery": true,
+  "contactEmail": "politecoder97@gmail.com",
+  "contactPhone": "123-456-7890",
+  "city": "New City",
+  "street": "123 New Street",
+  "postalCode": "12-345"
+}

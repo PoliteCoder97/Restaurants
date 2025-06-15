@@ -1,5 +1,3 @@
-#@Restaurants.API_HostAddress = http://localhost:5149
-
 GET {{Restaurants_API_HostAddress}}/api/restaurants
 
 ###
@@ -15,6 +13,27 @@ Content-Type: application/json
   "name": "New Restaurant",
   "category": "Italian",
   "description": "A new restaurant description",
+  "hasDelivery": true,
+  "contactEmail": "politecoder97@gmail.com",
+  "contactPhone": "123-456-7890",
+  "city": "New City",
+  "street": "123 New Street",
+  "postalCode": "12-345"
+}
+
+###
+
+DELETE {{Restaurants_API_HostAddress}}/api/restaurants/1
+
+###
+
+PATCH {{Restaurants_API_HostAddress}}/api/restaurants/1003
+Content-Type: application/json
+
+{
+  "name": "Update New Restaurant",
+  "category": "Mexican",
+  "description": "A new updated restaurant description",
   "hasDelivery": true,
   "contactEmail": "politecoder97@gmail.com",
   "contactPhone": "123-456-7890",

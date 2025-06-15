@@ -159,3 +159,5 @@
 /Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/FluentValidation.dll
 /Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/FluentValidation.AspNetCore.dll
 /Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/MediatR.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/MediatR.Contracts.dll

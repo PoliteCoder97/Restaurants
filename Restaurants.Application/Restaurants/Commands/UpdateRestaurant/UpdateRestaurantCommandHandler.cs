@@ -16,12 +16,14 @@ public class UpdateRestaurantCommandHandler(
     public async Task<bool> Handle(UpdateRestaurantCommand request,
         CancellationToken cancellationToken)
     {
-        logger.LogInformation("Creating a new restaurant.");
+        logger.LogInformation("Updating restaurant.{restaurantId}, {@Restaurant}", request.Id,
+            request);
         var restaurant = await restaurantRepository.GetByIdAsync(request.Id);
         if (restaurant is null)
         {
             return false;
         }
+
         var restaurantMapper = mapper.Map<Restaurant>(request);
 
         restaurant.Name = restaurantMapper.Name;

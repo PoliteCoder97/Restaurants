@@ -10,7 +10,7 @@ POST {{Restaurants_API_HostAddress}}/api/restaurants
 Content-Type: application/json
 
 {
-  "name": "New Restaurant",
+  "name": "New Restaurant with logs",
   "category": "Italian",
   "description": "A new restaurant description",
   "hasDelivery": true,
@@ -27,7 +27,7 @@ DELETE {{Restaurants_API_HostAddress}}/api/restaurants/1
 
 ###
 
-PATCH {{Restaurants_API_HostAddress}}/api/restaurants/1003
+PATCH {{Restaurants_API_HostAddress}}/api/restaurants/1006
 Content-Type: application/json
 
 {

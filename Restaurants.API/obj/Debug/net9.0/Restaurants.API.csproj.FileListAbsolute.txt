@@ -161,3 +161,12 @@
 /Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/MediatR.dll
 /Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/MediatR.Contracts.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/Serilog.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/Serilog.AspNetCore.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+/Users/macbook/development/projects/dotnet/Restaurants/Restaurants.API/bin/Debug/net9.0/Serilog.Sinks.File.dll

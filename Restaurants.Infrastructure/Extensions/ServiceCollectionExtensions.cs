@@ -22,7 +22,9 @@ public static void AddInfrastructureServices(this IServiceCollection services, I
         Console.WriteLine($"Using connection string: {connectionString}");
 
         services.AddDbContext<RestaurantsDbContext>(options =>
-            options.UseSqlServer(connectionString));
+            options.UseSqlServer(connectionString)
+                .EnableSensitiveDataLogging()
+            );
 
         services.AddScoped<IRestuarantSeeder, RestuarantSeeder>();
         services.AddScoped<IRestaurantRepository, RestaurantsRepository>();
